@@ -6,6 +6,12 @@
 
 ---
 
+# Igor Barreto Meirelles
+## Onde me achar:
+[nome do site](https://github.com/ibarretom)
+
+---
+
 # Carlos Amor
 ## Onde me achar: 
 [Minha banda fav](https://pt.wikipedia.org/wiki/Alice_in_Chains)
