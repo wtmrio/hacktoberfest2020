@@ -27,6 +27,15 @@
 ![uhuuul](https://i.guim.co.uk/img/media/8f02bb49224d9a94699b75213664bf898617c062/0_288_5315_3189/master/5315.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=89721e1224115e05a05203a62cf93f7c)
 
 ---
+
+# Wang Trindade
+## Onde me achar:
+[Meu github](github.com/spao234)
+## Essa imagem me representa:
+![facebook](https://www.google.com/url?sa=i&url=http%3A%2F%2Fcsonlineunitau.com.br%2Fv14%2Fa-rede-social-retrata-o-inicio-do-facebook-e-a-revolucao-da-comunicacao%2F&psig=AOvVaw3IoqmTBPIcbCaw4_O_cugL&ust=1603221290223000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDbw--uwewCFQAAAAAdAAAAABAD)
+
+---
+
 # Yuri Mello
 ## Onde me achar:
 [Meu github](https://github.com/ymello)
@@ -34,3 +43,4 @@
 
 ## Essa imagem me representa:
 ![Melhor Esporte do Mundo](https://i2-prod.examinerlive.co.uk/incoming/article14699118.ece/ALTERNATES/s615/Harry.jpg)
+
