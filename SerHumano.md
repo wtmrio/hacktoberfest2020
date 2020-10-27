@@ -6,6 +6,12 @@
 
 ---
 
+# Igor Barreto Meirelles
+## Onde me achar:
+[nome do site](https://github.com/ibarretom)
+
+---
+
 # Carlos Amor
 ## Onde me achar: 
 [Minha banda fav](https://pt.wikipedia.org/wiki/Alice_in_Chains)
@@ -27,3 +33,14 @@
 [Meu github](github.com/spao234)
 ## Essa imagem me representa:
 ![facebook](https://www.google.com/url?sa=i&url=http%3A%2F%2Fcsonlineunitau.com.br%2Fv14%2Fa-rede-social-retrata-o-inicio-do-facebook-e-a-revolucao-da-comunicacao%2F&psig=AOvVaw3IoqmTBPIcbCaw4_O_cugL&ust=1603221290223000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDbw--uwewCFQAAAAAdAAAAABAD)
+
+---
+
+# Yuri Mello
+## Onde me achar:
+[Meu github](https://github.com/ymello)
+[Meu Linkedin](https://www.linkedin.com/in/yuri-mello/)
+
+## Essa imagem me representa:
+![Melhor Esporte do Mundo](https://i2-prod.examinerlive.co.uk/incoming/article14699118.ece/ALTERNATES/s615/Harry.jpg)
+
