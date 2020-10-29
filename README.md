@@ -18,3 +18,12 @@
 [YouTube](https://www.youtube.com/channel/UCr8KdektD80Ae6ot_vOc7Mw)
 
 [Instagram da comunidade do Women Techmakers](https://www.instagram.com/wtmrio/)
+
+---
+
+## Organizadores do evento 
+- [Jessica Borges](https://www.instagram.com/jssiborges) 
+- [Jade Cavalcanti](https://www.instagram.com/jadecap_art/) 
+- [Maynara Costa](https://www.instagram.com/maynaraqfcosta) 
+- [Raysa Dutra](https://raysadutra.dev/) 
+- [Suellen Silva](#) 
