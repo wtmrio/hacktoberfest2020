@@ -12,3 +12,6 @@
 ## Essa imagem me representa:
 ![texto alternativo](endereço da foto)
 ```
+
+---
+[YouTube](https://www.youtube.com/channel/UCr8KdektD80Ae6ot_vOc7Mw)
