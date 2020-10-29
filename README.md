@@ -12,3 +12,7 @@
 ## Essa imagem me representa:
 ![texto alternativo](endereço da foto)
 ```
+
+---
+
+[Instagram da comunidade do Women Techmakers](https://www.instagram.com/wtmrio/)
