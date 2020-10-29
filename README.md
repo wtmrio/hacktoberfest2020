@@ -15,12 +15,6 @@
 
 ---
 
-[YouTube](https://www.youtube.com/channel/UCr8KdektD80Ae6ot_vOc7Mw)
-
-[Instagram da comunidade do Women Techmakers](https://www.instagram.com/wtmrio/)
-
----
-
 ## Organizadores do evento 
 - [Jessica Borges](https://www.instagram.com/jssiborges) 
 - [Jade Cavalcanti](https://www.instagram.com/jadecap_art/) 
@@ -31,3 +25,6 @@
 ## Conheça nossa comunidade do Google
 
 [GDG Community](https://gdg.community.dev/gdg-rio-de-janeiro/)
+[YouTube](https://www.youtube.com/channel/UCr8KdektD80Ae6ot_vOc7Mw)
+[Instagram da comunidade do Women Techmakers](https://www.instagram.com/wtmrio/)
+
