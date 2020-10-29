@@ -27,3 +27,7 @@
 - [Maynara Costa](https://www.instagram.com/maynaraqfcosta) 
 - [Raysa Dutra](https://raysadutra.dev/) 
 - [Suellen Silva](#) 
+
+## Conheça nossa comunidade do Google
+
+[GDG Community](https://gdg.community.dev/gdg-rio-de-janeiro/)
